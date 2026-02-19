@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "title": "Fortune Cookie 🥠 - DopaBrain",
+    "description": "Crack open a fortune cookie and discover your daily fortune! Lucky numbers, colors, and wisdom."
+  },
+  "a11y": {
+    "skip": "Skip to content"
+  },
+  "app": {
+    "title": "Fortune Cookie",
+    "subtitle": "Tap the cookie to reveal your fortune",
+    "loading": "Loading...",
+    "tap": "Tap!",
+    "cookiesOpened": "Cookies opened"
+  },
+  "fortune": {
+    "luckyNumber": "Lucky Number",
+    "luckyColor": "Lucky Color",
+    "mood": "Today's Mood",
+    "share": "📤 Share",
+    "newCookie": "🥠 New Cookie"
+  },
+  "colors": {
+    "red": "Red",
+    "blue": "Blue",
+    "green": "Green",
+    "gold": "Gold",
+    "purple": "Purple",
+    "pink": "Pink",
+    "orange": "Orange",
+    "silver": "Silver"
+  },
+  "moods": {
+    "mood1": "Adventurous",
+    "mood2": "Peaceful",
+    "mood3": "Energetic",
+    "mood4": "Romantic",
+    "mood5": "Creative",
+    "mood6": "Lucky"
+  },
+  "share": {
+    "title": "Fortune Cookie",
+    "text": "My fortune cookie says: “{fortune}” 🥠\nGet your fortune!",
+    "copied": "Copied to clipboard!"
+  },
+  "nav": {
+    "back": "DopaBrain Home"
+  },
+  "fortunes": {
+    "f1": "A surprise awaits you around the corner.",
+    "f2": "Your kindness will be rewarded today.",
+    "f3": "A new opportunity is about to present itself.",
+    "f4": "Trust your intuition — it knows the way.",
+    "f5": "Something wonderful is about to happen.",
+    "f6": "Today's patience will become tomorrow's strength.",
+    "f7": "An unexpected message will brighten your day.",
+    "f8": "Your creativity will solve a difficult problem.",
+    "f9": "A small act of courage will change everything.",
+    "f10": "The stars are aligned in your favor today.",
+    "f11": "Someone is thinking of you right now.",
+    "f12": "A journey of discovery begins with a single step.",
+    "f13": "Your smile will open doors you didn't know existed.",
+    "f14": "Good news is on its way to you.",
+    "f15": "Trust the timing of your life.",
+    "f16": "A forgotten dream will resurface with new meaning.",
+    "f17": "Your positive energy attracts positive outcomes.",
+    "f18": "An old friend will bring unexpected joy.",
+    "f19": "Today is the perfect day to start something new.",
+    "f20": "The universe is conspiring in your favor.",
+    "f21": "A moment of clarity will guide your next decision.",
+    "f22": "Your generosity will come back tenfold.",
+    "f23": "A pleasant surprise awaits you this week.",
+    "f24": "The answer you seek is closer than you think.",
+    "f25": "Your persistence is about to pay off.",
+    "f26": "Love is closer than you realize.",
+    "f27": "A creative breakthrough is on the horizon.",
+    "f28": "Someone will share good fortune with you soon.",
+    "f29": "Your inner strength will surprise even yourself.",
+    "f30": "Today's small victory leads to tomorrow's big success."
+  }
+}

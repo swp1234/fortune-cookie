@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "title": "Glückskeks 🥠 - DopaBrain",
+    "description": "Öffne einen Glückskeks und entdecke dein Tageshoroskop! Glückszahlen, Farben und Stimmung."
+  },
+  "a11y": {
+    "skip": "Zum Inhalt springen"
+  },
+  "app": {
+    "title": "Glückskeks",
+    "subtitle": "Tippe auf den Keks für dein Glück",
+    "loading": "Laden...",
+    "tap": "Tippe!",
+    "cookiesOpened": "Geöffnete Kekse"
+  },
+  "fortune": {
+    "luckyNumber": "Glückszahl",
+    "luckyColor": "Glücksfarbe",
+    "mood": "Stimmung des Tages",
+    "share": "📤 Teilen",
+    "newCookie": "🥠 Neuer Keks"
+  },
+  "colors": {
+    "red": "Rot",
+    "blue": "Blau",
+    "green": "Grün",
+    "gold": "Gold",
+    "purple": "Lila",
+    "pink": "Rosa",
+    "orange": "Orange",
+    "silver": "Silber"
+  },
+  "moods": {
+    "mood1": "Abenteuerlich",
+    "mood2": "Friedlich",
+    "mood3": "Energiegeladen",
+    "mood4": "Romantisch",
+    "mood5": "Kreativ",
+    "mood6": "Glücklich"
+  },
+  "share": {
+    "title": "Glückskeks",
+    "text": "Mein Glückskeks sagt: “{fortune}” 🥠\nProbier es auch!",
+    "copied": "Kopiert!"
+  },
+  "nav": {
+    "back": "DopaBrain Startseite"
+  },
+  "fortunes": {
+    "f1": "Eine Überraschung wartet um die Ecke.",
+    "f2": "Deine Freundlichkeit wird heute belohnt.",
+    "f3": "Eine neue Chance steht bevor.",
+    "f4": "Vertraue deiner Intuition — sie kennt den Weg.",
+    "f5": "Etwas Wunderbares wird gleich passieren.",
+    "f6": "Die Geduld von heute wird die Stärke von morgen.",
+    "f7": "Eine unerwartete Nachricht wird deinen Tag erhellen.",
+    "f8": "Deine Kreativität wird ein schwieriges Problem lösen.",
+    "f9": "Ein kleiner Akt des Mutes wird alles verändern.",
+    "f10": "Die Sterne stehen heute günstig für dich.",
+    "f11": "Jemand denkt gerade an dich.",
+    "f12": "Eine Entdeckungsreise beginnt mit einem einzigen Schritt.",
+    "f13": "Dein Lächeln öffnet Türen, die du nicht kanntest.",
+    "f14": "Gute Nachrichten sind unterwegs.",
+    "f15": "Vertraue dem Timing deines Lebens.",
+    "f16": "Ein vergessener Traum kehrt mit neuer Bedeutung zurück.",
+    "f17": "Positive Energie zieht positive Ergebnisse an.",
+    "f18": "Ein alter Freund bringt unerwartete Freude.",
+    "f19": "Heute ist der perfekte Tag, etwas Neues zu beginnen.",
+    "f20": "Das Universum arbeitet zu deinen Gunsten.",
+    "f21": "Ein Moment der Klarheit wird deine nächste Entscheidung leiten.",
+    "f22": "Deine Großzügigkeit kommt zehnfach zurück.",
+    "f23": "Diese Woche erwartet dich eine angenehme Überraschung.",
+    "f24": "Die Antwort ist näher als du denkst.",
+    "f25": "Deine Beharrlichkeit zahlt sich bald aus.",
+    "f26": "Liebe ist näher als du denkst.",
+    "f27": "Ein kreativer Durchbruch steht bevor.",
+    "f28": "Jemand wird bald Glück mit dir teilen.",
+    "f29": "Deine innere Stärke wird sogar dich überraschen.",
+    "f30": "Der kleine Sieg von heute führt zum großen Erfolg von morgen."
+  }
+}

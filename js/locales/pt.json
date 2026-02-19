@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "title": "Biscoito da Sorte 🥠 - DopaBrain",
+    "description": "Abra um biscoito da sorte e descubra sua fortuna! Números, cores e humor do dia."
+  },
+  "a11y": {
+    "skip": "Pular para o conteúdo"
+  },
+  "app": {
+    "title": "Biscoito da Sorte",
+    "subtitle": "Toque no biscoito para revelar sua fortuna",
+    "loading": "Carregando...",
+    "tap": "Toque!",
+    "cookiesOpened": "Biscoitos abertos"
+  },
+  "fortune": {
+    "luckyNumber": "Número da sorte",
+    "luckyColor": "Cor da sorte",
+    "mood": "Humor do dia",
+    "share": "📤 Compartilhar",
+    "newCookie": "🥠 Novo Biscoito"
+  },
+  "colors": {
+    "red": "Vermelho",
+    "blue": "Azul",
+    "green": "Verde",
+    "gold": "Dourado",
+    "purple": "Roxo",
+    "pink": "Rosa",
+    "orange": "Laranja",
+    "silver": "Prata"
+  },
+  "moods": {
+    "mood1": "Aventureiro",
+    "mood2": "Pacífico",
+    "mood3": "Energético",
+    "mood4": "Romântico",
+    "mood5": "Criativo",
+    "mood6": "Sortudo"
+  },
+  "share": {
+    "title": "Biscoito da Sorte",
+    "text": "Meu biscoito da sorte diz: “{fortune}” 🥠\nDescubra o seu!",
+    "copied": "Copiado!"
+  },
+  "nav": {
+    "back": "DopaBrain Início"
+  },
+  "fortunes": {
+    "f1": "Uma surpresa aguarda por você.",
+    "f2": "Sua bondade será recompensada hoje.",
+    "f3": "Uma nova oportunidade está prestes a se apresentar.",
+    "f4": "Confie na sua intuição — ela sabe o caminho.",
+    "f5": "Algo maravilhoso está prestes a acontecer.",
+    "f6": "A paciência de hoje será a força de amanhã.",
+    "f7": "Uma mensagem inesperada iluminará seu dia.",
+    "f8": "Sua criatividade resolverá um problema difícil.",
+    "f9": "Um pequeno ato de coragem mudará tudo.",
+    "f10": "As estrelas estão alinhadas a seu favor hoje.",
+    "f11": "Alguém está pensando em você agora.",
+    "f12": "Uma jornada de descoberta começa com um único passo.",
+    "f13": "Seu sorriso abrirá portas que você não sabia que existiam.",
+    "f14": "Boas notícias estão a caminho.",
+    "f15": "Confie no tempo da sua vida.",
+    "f16": "Um sonho esquecido ressurgirá com novo significado.",
+    "f17": "Sua energia positiva atrai resultados positivos.",
+    "f18": "Um velho amigo trará alegria inesperada.",
+    "f19": "Hoje é o dia perfeito para começar algo novo.",
+    "f20": "O universo conspira a seu favor.",
+    "f21": "Um momento de clareza guiará sua próxima decisão.",
+    "f22": "Sua generosidade voltará multiplicada.",
+    "f23": "Uma surpresa agradável espera por você esta semana.",
+    "f24": "A resposta que procura está mais perto do que pensa.",
+    "f25": "Sua persistência está prestes a compensar.",
+    "f26": "O amor está mais perto do que você imagina.",
+    "f27": "Um avanço criativo está no horizonte.",
+    "f28": "Alguém compartilhará boa sorte com você em breve.",
+    "f29": "Sua força interior surpreenderá até você mesmo.",
+    "f30": "A pequena vitória de hoje leva ao grande sucesso de amanhã."
+  }
+}

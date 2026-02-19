@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "title": "Fal Kurabiyesi 🥠 - DopaBrain",
+    "description": "Fal kurabiyesini kırın ve bugünkü talihini keşfet! Şanslı sayılar, renkler ve ruh hali."
+  },
+  "a11y": {
+    "skip": "İçeriğe geç"
+  },
+  "app": {
+    "title": "Fal Kurabiyesi",
+    "subtitle": "Kurabiyeye dokun ve falını öğren",
+    "loading": "Yükleniyor...",
+    "tap": "Dokun!",
+    "cookiesOpened": "Açılan kurabiyeler"
+  },
+  "fortune": {
+    "luckyNumber": "Şanslı Sayı",
+    "luckyColor": "Şanslı Renk",
+    "mood": "Günün Ruh Hali",
+    "share": "📤 Paylaş",
+    "newCookie": "🥠 Yeni Kurabiye"
+  },
+  "colors": {
+    "red": "Kırmızı",
+    "blue": "Mavi",
+    "green": "Yeşil",
+    "gold": "Altın",
+    "purple": "Mor",
+    "pink": "Pembe",
+    "orange": "Turuncu",
+    "silver": "Gümüş"
+  },
+  "moods": {
+    "mood1": "Maceracı",
+    "mood2": "Huzurlu",
+    "mood3": "Enerjik",
+    "mood4": "Romantik",
+    "mood5": "Yaratıcı",
+    "mood6": "Şanslı"
+  },
+  "share": {
+    "title": "Fal Kurabiyesi",
+    "text": "Fal kurabiyem diyor ki: “{fortune}” 🥠\nSen de dene!",
+    "copied": "Panoya kopyalandı!"
+  },
+  "nav": {
+    "back": "DopaBrain Ana Sayfa"
+  },
+  "fortunes": {
+    "f1": "Köşede bir sürpriz sizi bekliyor.",
+    "f2": "Nezaketiniz bugün ödüllendirilecek.",
+    "f3": "Yeni bir fırsat kendini göstermek üzere.",
+    "f4": "Sezgilerinize güvenin — yolu biliyor.",
+    "f5": "Harika bir şey olmak üzere.",
+    "f6": "Bugünün sabrı yarının gücü olacak.",
+    "f7": "Beklenmedik bir mesaj gününüzü aydınlatacak.",
+    "f8": "Yaratıcılığınız zor bir sorunu çözecek.",
+    "f9": "Küçük bir cesaret tüm her şeyi değiştirecek.",
+    "f10": "Bugün yıldızlar sizin tarafınızda.",
+    "f11": "Şu anda biri sizi düşünüyor.",
+    "f12": "Keşif yolculuğu tek bir adımla başlar.",
+    "f13": "Gülümsemeniz bilmediğiniz kapıları açacak.",
+    "f14": "İyi haberler yolda.",
+    "f15": "Hayatınızın zamanlamasına güvenin.",
+    "f16": "Unutulmuş bir rüya yeni anlamla geri dönecek.",
+    "f17": "Pozitif enerji pozitif sonuçları çeker.",
+    "f18": "Eski bir arkadaş beklenmedik mutluluk getirecek.",
+    "f19": "Bugün yeni bir şeye başlamak için mükemmel gün.",
+    "f20": "Evren sizin lehinize çalışıyor.",
+    "f21": "Berraklık anı bir sonraki kararınıza rehberlik edecek.",
+    "f22": "Cömertliğiniz on katı geri dönecek.",
+    "f23": "Bu hafta hoş bir sürpriz sizi bekliyor.",
+    "f24": "Aradığınız cevap düşündüğünüzden daha yakın.",
+    "f25": "Azminiz meyvesini vermek üzere.",
+    "f26": "Aşk düşündüğünüzden daha yakın.",
+    "f27": "Yaratıcı bir atılım ufukta.",
+    "f28": "Biri yakında sizinle iyi şans paylaşacak.",
+    "f29": "İç gücünüz kendinizi bile şaşırtacak.",
+    "f30": "Bugünün küçük zaferi yarının büyük başarısına yol açar."
+  }
+}

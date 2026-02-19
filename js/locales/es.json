@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "title": "Galleta de la Fortuna 🥠 - DopaBrain",
+    "description": "¡Abre una galleta de la fortuna y descubre tu suerte! Números, colores y estado de ánimo."
+  },
+  "a11y": {
+    "skip": "Ir al contenido"
+  },
+  "app": {
+    "title": "Galleta de la Fortuna",
+    "subtitle": "Toca la galleta para revelar tu fortuna",
+    "loading": "Cargando...",
+    "tap": "¡Toca!",
+    "cookiesOpened": "Galletas abiertas"
+  },
+  "fortune": {
+    "luckyNumber": "Número de suerte",
+    "luckyColor": "Color de suerte",
+    "mood": "Humor del día",
+    "share": "📤 Compartir",
+    "newCookie": "🥠 Nueva Galleta"
+  },
+  "colors": {
+    "red": "Rojo",
+    "blue": "Azul",
+    "green": "Verde",
+    "gold": "Dorado",
+    "purple": "Morado",
+    "pink": "Rosa",
+    "orange": "Naranja",
+    "silver": "Plateado"
+  },
+  "moods": {
+    "mood1": "Aventurero",
+    "mood2": "Pacífico",
+    "mood3": "Energético",
+    "mood4": "Romántico",
+    "mood5": "Creativo",
+    "mood6": "Afortunado"
+  },
+  "share": {
+    "title": "Galleta de la Fortuna",
+    "text": "Mi galleta de la fortuna dice: “{fortune}” 🥠\n¡Prueba la tuya!",
+    "copied": "¡Copiado!"
+  },
+  "nav": {
+    "back": "DopaBrain Inicio"
+  },
+  "fortunes": {
+    "f1": "Una sorpresa te espera a la vuelta de la esquina.",
+    "f2": "Tu amabilidad será recompensada hoy.",
+    "f3": "Una nueva oportunidad está a punto de presentarse.",
+    "f4": "Confía en tu intuición — conoce el camino.",
+    "f5": "Algo maravilloso está por suceder.",
+    "f6": "La paciencia de hoy será la fuerza de mañana.",
+    "f7": "Un mensaje inesperado alegrará tu día.",
+    "f8": "Tu creatividad resolverá un problema difícil.",
+    "f9": "Un pequeño acto de valentía lo cambiará todo.",
+    "f10": "Las estrellas están alineadas a tu favor hoy.",
+    "f11": "Alguien está pensando en ti ahora mismo.",
+    "f12": "Un viaje de descubrimiento comienza con un solo paso.",
+    "f13": "Tu sonrisa abrirá puertas que no sabías que existían.",
+    "f14": "Buenas noticias vienen en camino.",
+    "f15": "Confía en el tiempo de tu vida.",
+    "f16": "Un sueño olvidado resurgirá con nuevo significado.",
+    "f17": "Tu energía positiva atrae resultados positivos.",
+    "f18": "Un viejo amigo traerá alegría inesperada.",
+    "f19": "Hoy es el día perfecto para empezar algo nuevo.",
+    "f20": "El universo conspira a tu favor.",
+    "f21": "Un momento de claridad guiará tu próxima decisión.",
+    "f22": "Tu generosidad volverá multiplicada.",
+    "f23": "Una agradable sorpresa te espera esta semana.",
+    "f24": "La respuesta que buscas está más cerca de lo que crees.",
+    "f25": "Tu persistencia está a punto de dar frutos.",
+    "f26": "El amor está más cerca de lo que piensas.",
+    "f27": "Un avance creativo está en el horizonte.",
+    "f28": "Alguien compartirá buena fortuna contigo pronto.",
+    "f29": "Tu fuerza interior te sorprenderá a ti mismo.",
+    "f30": "La pequeña victoria de hoy lleva al gran éxito de mañana."
+  }
+}

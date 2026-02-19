@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "title": "Fortune Cookie 🥠 - DopaBrain",
+    "description": "Ouvrez un fortune cookie et découvrez votre fortune ! Numéros, couleurs et humeur du jour."
+  },
+  "a11y": {
+    "skip": "Aller au contenu"
+  },
+  "app": {
+    "title": "Fortune Cookie",
+    "subtitle": "Touchez le cookie pour révéler votre fortune",
+    "loading": "Chargement...",
+    "tap": "Touchez !",
+    "cookiesOpened": "Cookies ouverts"
+  },
+  "fortune": {
+    "luckyNumber": "Numéro chanceux",
+    "luckyColor": "Couleur chanceuse",
+    "mood": "Humeur du jour",
+    "share": "📤 Partager",
+    "newCookie": "🥠 Nouveau Cookie"
+  },
+  "colors": {
+    "red": "Rouge",
+    "blue": "Bleu",
+    "green": "Vert",
+    "gold": "Or",
+    "purple": "Violet",
+    "pink": "Rose",
+    "orange": "Orange",
+    "silver": "Argent"
+  },
+  "moods": {
+    "mood1": "Aventureux",
+    "mood2": "Paisible",
+    "mood3": "Énergique",
+    "mood4": "Romantique",
+    "mood5": "Créatif",
+    "mood6": "Chanceux"
+  },
+  "share": {
+    "title": "Fortune Cookie",
+    "text": "Mon fortune cookie dit : “{fortune}” 🥠\nEssayez le vôtre !",
+    "copied": "Copié !"
+  },
+  "nav": {
+    "back": "DopaBrain Accueil"
+  },
+  "fortunes": {
+    "f1": "Une surprise vous attend au tournant.",
+    "f2": "Votre gentillesse sera récompensée aujourd'hui.",
+    "f3": "Une nouvelle opportunité va se présenter.",
+    "f4": "Faites confiance à votre intuition — elle connaît le chemin.",
+    "f5": "Quelque chose de merveilleux est sur le point d'arriver.",
+    "f6": "La patience d'aujourd'hui deviendra la force de demain.",
+    "f7": "Un message inattendu illuminera votre journée.",
+    "f8": "Votre créativité résoudra un problème difficile.",
+    "f9": "Un petit acte de courage changera tout.",
+    "f10": "Les étoiles sont alignées en votre faveur aujourd'hui.",
+    "f11": "Quelqu'un pense à vous en ce moment.",
+    "f12": "Un voyage de découverte commence par un seul pas.",
+    "f13": "Votre sourire ouvrira des portes insoupçonnées.",
+    "f14": "De bonnes nouvelles sont en chemin.",
+    "f15": "Faites confiance au timing de votre vie.",
+    "f16": "Un rêve oublié resurface avec un nouveau sens.",
+    "f17": "L'énergie positive attire des résultats positifs.",
+    "f18": "Un vieil ami apportera une joie inattendue.",
+    "f19": "Aujourd'hui est le jour parfait pour commencer quelque chose de nouveau.",
+    "f20": "L'univers conspire en votre faveur.",
+    "f21": "Un moment de clarté guidera votre prochaine décision.",
+    "f22": "Votre générosité reviendra décuplée.",
+    "f23": "Une agréable surprise vous attend cette semaine.",
+    "f24": "La réponse que vous cherchez est plus proche que vous ne pensez.",
+    "f25": "Votre persévérance est sur le point de porter ses fruits.",
+    "f26": "L'amour est plus proche que vous ne le pensez.",
+    "f27": "Une percée créative est à l'horizon.",
+    "f28": "Quelqu'un partagera bientôt sa bonne fortune avec vous.",
+    "f29": "Votre force intérieure vous surprendra vous-même.",
+    "f30": "La petite victoire d'aujourd'hui mène au grand succès de demain."
+  }
+}

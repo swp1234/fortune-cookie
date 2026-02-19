@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "title": "Kue Keberuntungan 🥠 - DopaBrain",
+    "description": "Buka kue keberuntungan dan temukan nasibmu! Angka, warna, dan suasana hati keberuntungan."
+  },
+  "a11y": {
+    "skip": "Langsung ke konten"
+  },
+  "app": {
+    "title": "Kue Keberuntungan",
+    "subtitle": "Ketuk kue untuk melihat nasibmu",
+    "loading": "Memuat...",
+    "tap": "Ketuk!",
+    "cookiesOpened": "Kue dibuka"
+  },
+  "fortune": {
+    "luckyNumber": "Angka Keberuntungan",
+    "luckyColor": "Warna Keberuntungan",
+    "mood": "Mood Hari Ini",
+    "share": "📤 Bagikan",
+    "newCookie": "🥠 Kue Baru"
+  },
+  "colors": {
+    "red": "Merah",
+    "blue": "Biru",
+    "green": "Hijau",
+    "gold": "Emas",
+    "purple": "Ungu",
+    "pink": "Pink",
+    "orange": "Oranye",
+    "silver": "Perak"
+  },
+  "moods": {
+    "mood1": "Petualang",
+    "mood2": "Damai",
+    "mood3": "Energik",
+    "mood4": "Romantis",
+    "mood5": "Kreatif",
+    "mood6": "Beruntung"
+  },
+  "share": {
+    "title": "Kue Keberuntungan",
+    "text": "Kue keberuntunganku berkata: “{fortune}” 🥠\nCek punyamu juga!",
+    "copied": "Tersalin!"
+  },
+  "nav": {
+    "back": "DopaBrain Beranda"
+  },
+  "fortunes": {
+    "f1": "Kejutan menanti di tikungan.",
+    "f2": "Kebaikanmu akan dibalas hari ini.",
+    "f3": "Kesempatan baru akan segera datang.",
+    "f4": "Percayai intuisimu — ia tahu jalannya.",
+    "f5": "Sesuatu yang luar biasa akan terjadi.",
+    "f6": "Kesabaran hari ini menjadi kekuatan esok.",
+    "f7": "Pesan tak terduga akan mencerahkan harimu.",
+    "f8": "Kreativitasmu akan memecahkan masalah sulit.",
+    "f9": "Tindakan kecil berani akan mengubah segalanya.",
+    "f10": "Bintang berpihak padamu hari ini.",
+    "f11": "Seseorang sedang memikirkanmu saat ini.",
+    "f12": "Perjalanan penemuan dimulai dari satu langkah.",
+    "f13": "Senyummu akan membuka pintu yang tak kau ketahui.",
+    "f14": "Kabar baik sedang dalam perjalanan.",
+    "f15": "Percayai waktu hidupmu.",
+    "f16": "Mimpi yang terlupakan akan muncul kembali dengan makna baru.",
+    "f17": "Energi positif menarik hasil positif.",
+    "f18": "Teman lama akan membawa kebahagiaan tak terduga.",
+    "f19": "Hari ini adalah hari sempurna untuk memulai sesuatu yang baru.",
+    "f20": "Alam semesta bekerja untukmu.",
+    "f21": "Momen kejernihan akan memandu keputusanmu selanjutnya.",
+    "f22": "Kemurahan hatimu akan kembali berlipat ganda.",
+    "f23": "Kejutan menyenangkan menantimu minggu ini.",
+    "f24": "Jawaban yang kau cari lebih dekat dari yang kau kira.",
+    "f25": "Ketekunanmu akan segera membuahkan hasil.",
+    "f26": "Cinta lebih dekat dari yang kau sadari.",
+    "f27": "Terobosan kreatif ada di cakrawala.",
+    "f28": "Seseorang akan berbagi keberuntungan denganmu segera.",
+    "f29": "Kekuatan batinmu akan mengejutkan dirimu sendiri.",
+    "f30": "Kemenangan kecil hari ini menuju kesuksesan besar esok."
+  }
+}
