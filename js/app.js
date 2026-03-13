@@ -147,9 +147,70 @@ function showFortune() {
     document.getElementById('lucky-color').textContent = data.luckyColor;
     document.getElementById('lucky-mood').textContent = data.mood;
 
+    // Fortune rarity system
+    const rarityRoll = Math.random();
+    let rarity, rarityColor, rarityLabel;
+    if (rarityRoll < 0.03) {
+        rarity = 'legendary'; rarityColor = '#fbbf24'; rarityLabel = '⭐ Legendary';
+    } else if (rarityRoll < 0.12) {
+        rarity = 'rare'; rarityColor = '#a78bfa'; rarityLabel = '💎 Rare';
+    } else if (rarityRoll < 0.35) {
+        rarity = 'uncommon'; rarityColor = '#34d399'; rarityLabel = '✨ Uncommon';
+    } else {
+        rarity = 'common'; rarityColor = '#9ca3af'; rarityLabel = '🥠 Common';
+    }
+
+    let rarityBadge = document.getElementById('rarity-badge');
+    if (!rarityBadge) {
+        rarityBadge = document.createElement('div');
+        rarityBadge.id = 'rarity-badge';
+        rarityBadge.style.cssText = 'text-align:center;font-size:13px;font-weight:700;margin-top:8px;padding:4px 12px;border-radius:12px;display:inline-block;';
+        const fortuneText = document.getElementById('fortune-text');
+        fortuneText.parentElement.insertBefore(rarityBadge, fortuneText.nextSibling);
+    }
+    rarityBadge.textContent = rarityLabel;
+    rarityBadge.style.color = rarityColor;
+    rarityBadge.style.background = rarityColor + '18';
+    rarityBadge.style.border = `1px solid ${rarityColor}44`;
+
+    // Legendary effect
+    if (rarity === 'legendary') {
+        spawnSparkles(document.querySelector('.fortune-card') || document.body);
+    }
+
     fortuneCard.classList.remove('hidden');
     incrementCookieCount();
+    checkDailyStreak();
     isAnimating = false;
+}
+
+// Daily streak tracker
+function checkDailyStreak() {
+    const today = new Date().toDateString();
+    const lastDate = localStorage.getItem('fortune_lastDate');
+    let streak = parseInt(localStorage.getItem('fortune_streak') || '0');
+
+    if (lastDate !== today) {
+        const yesterday = new Date(Date.now() - 86400000).toDateString();
+        streak = (lastDate === yesterday) ? streak + 1 : 1;
+        localStorage.setItem('fortune_streak', streak.toString());
+        localStorage.setItem('fortune_lastDate', today);
+    }
+
+    let streakEl = document.getElementById('daily-streak');
+    if (!streakEl) {
+        streakEl = document.createElement('div');
+        streakEl.id = 'daily-streak';
+        streakEl.style.cssText = 'text-align:center;font-size:14px;color:var(--text-secondary,#aaa);margin-top:12px;';
+        const cookieCount = document.getElementById('cookie-count');
+        if (cookieCount && cookieCount.parentElement) {
+            cookieCount.parentElement.parentElement.appendChild(streakEl);
+        }
+    }
+    if (streak >= 2) {
+        const streakEmoji = streak >= 7 ? '🔥' : streak >= 3 ? '⭐' : '✨';
+        streakEl.textContent = `${streakEmoji} ${streak} ${_t('streak.days', 'day streak')}`;
+    }
 }
 
 function spawnSparkles(container) {
