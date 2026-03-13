@@ -77,5 +77,12 @@
     "f28": "Alguém compartilhará boa sorte com você em breve.",
     "f29": "Sua força interior surpreenderá até você mesmo.",
     "f30": "A pequena vitória de hoje leva ao grande sucesso de amanhã."
+  },
+  "related": {
+    "title": "Mais para explorar",
+    "dailyTarot": "Tarot diário",
+    "numerology": "Numerologia",
+    "dreamFortune": "Fortuna dos sonhos",
+    "luckMeter": "Medidor de sorte"
   }
 }
