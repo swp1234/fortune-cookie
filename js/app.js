@@ -180,12 +180,12 @@ function showFortune() {
 
     fortuneCard.classList.remove('hidden');
     incrementCookieCount();
-    checkDailyStreak();
+    checkFortuneStreak();
     isAnimating = false;
 }
 
-// Daily streak tracker
-function checkDailyStreak() {
+// Fortune streak tracker
+function checkFortuneStreak() {
     const today = new Date().toDateString();
     const lastDate = localStorage.getItem('fortune_lastDate');
     let streak = parseInt(localStorage.getItem('fortune_streak') || '0');
