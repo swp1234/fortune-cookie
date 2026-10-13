@@ -5,6 +5,10 @@ class I18n {
         this.currentLang = this.detectLanguage();
     }
     detectLanguage() {
+        try {
+            const queryLang = new URLSearchParams(window.location.search || '').get('lang');
+            if (queryLang && this.supportedLanguages.includes(queryLang)) return queryLang;
+        } catch (e) {}
         const saved = localStorage.getItem('app_language');
         if (saved && this.supportedLanguages.includes(saved)) return saved;
         const browser = (navigator.language || navigator.userLanguage).split('-')[0];
