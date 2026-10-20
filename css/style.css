@@ -41,6 +41,10 @@ body {
     color: #fff;
     padding: 8px 16px;
     z-index: 10001;
+    min-height: 44px;
+    display: inline-flex;
+    align-items: center;
+    box-sizing: border-box;
     transition: top 0.3s;
 }
 .skip-link:focus { top: 0; }
@@ -345,6 +349,9 @@ body {
     color: var(--text-secondary);
     text-decoration: none;
     font-size: 13px;
+    min-height: 44px;
+    padding: 0 12px;
+    box-sizing: border-box;
 }
 .back-link:hover { color: var(--primary); }
 
