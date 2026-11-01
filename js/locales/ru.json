@@ -80,9 +80,9 @@
   },
   "related": {
     "title": "Ещё интересное",
-    "dailyTarot": "Ежедневное Таро",
-    "numerology": "Нумерология",
     "dreamFortune": "Толкование снов",
-    "lifeNumbers": "Жизнь в цифрах"
+    "lifeNumbers": "Жизнь в цифрах",
+    "soulAge": "Возраст души",
+    "futureSelf": "Будущий я"
   }
 }

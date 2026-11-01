@@ -80,9 +80,9 @@
   },
   "related": {
     "title": "और खोजें",
-    "dailyTarot": "दैनिक टैरो",
-    "numerology": "अंक ज्योतिष",
     "dreamFortune": "सपने का भाग्य",
-    "lifeNumbers": "अंकों में जीवन"
+    "lifeNumbers": "अंकों में जीवन",
+    "soulAge": "आत्मा की आयु",
+    "futureSelf": "भविष्य का मैं"
   }
 }

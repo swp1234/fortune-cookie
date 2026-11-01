@@ -80,9 +80,9 @@
   },
   "related": {
     "title": "探索更多",
-    "dailyTarot": "每日塔罗",
-    "numerology": "数字命理",
     "dreamFortune": "解梦",
-    "lifeNumbers": "数字人生"
+    "lifeNumbers": "数字人生",
+    "soulAge": "心理年龄测试",
+    "futureSelf": "未来的自己"
   }
 }

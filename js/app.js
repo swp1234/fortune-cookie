@@ -2,16 +2,30 @@
 function preserveLanguageLinks() {
     var urlLang = new URLSearchParams(window.location.search).get('lang');
     var currentLang = urlLang || (typeof i18n !== 'undefined' && typeof i18n.getCurrentLanguage === 'function' ? i18n.getCurrentLanguage() : null) || 'ko';
-    var links = document.querySelectorAll('a[href^="/"], .related-card');
+    var links = document.querySelectorAll('.related-card, a[href^="/soul-age/"], a[href^="/future-self/"], a[href^="/dream-fortune/"], a[href^="/life-in-numbers/"]');
     var base = (window.location.origin && window.location.origin !== 'null') ? window.location.origin : 'https://dopabrain.com';
     links.forEach(function(link) {
         var href = link.getAttribute('href');
-        if (!href || href.startsWith('http') || href.startsWith('#')) return;
+        if (!href || href.startsWith('http') || href.startsWith('#') || href.startsWith('/portal/')) return;
         try {
             var url = new URL(href, base);
             url.searchParams.set('lang', currentLang);
+            url.searchParams.set('source', 'fortune_cookie_result');
             link.setAttribute('href', url.pathname + url.search);
         } catch(e) {}
+        if (!link.__ctaBound) {
+            link.__ctaBound = true;
+            link.addEventListener('click', function() {
+                if (typeof gtag === 'function') {
+                    gtag('event', 'content_cta_click', {
+                        cta_surface: 'related_tools',
+                        destination: link.getAttribute('href'),
+                        source: 'fortune_cookie_result',
+                        lang: currentLang
+                    });
+                }
+            });
+        }
     });
 }
 if (document.readyState === 'loading') {
@@ -201,6 +215,7 @@ function showFortune() {
     }
 
     fortuneCard.classList.remove('hidden');
+    preserveLanguageLinks();
     incrementCookieCount();
     checkFortuneStreak();
     isAnimating = false;

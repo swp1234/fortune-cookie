@@ -80,9 +80,9 @@
   },
   "related": {
     "title": "Plus à découvrir",
-    "dailyTarot": "Tarot quotidien",
-    "numerology": "Numérologie",
     "dreamFortune": "Fortune des rêves",
-    "lifeNumbers": "Votre vie en chiffres"
+    "lifeNumbers": "Votre vie en chiffres",
+    "soulAge": "Âge de l'Âme",
+    "futureSelf": "Moi Futur"
   }
 }
