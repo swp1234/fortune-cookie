@@ -84,5 +84,16 @@
     "lifeNumbers": "Sayılarla hayat",
     "soulAge": "Ruh Yaşı Testi",
     "futureSelf": "Gelecekteki Ben"
+  },
+  "faq": {
+    "title": "Sıkça Sorulan Sorular (FAQ)",
+    "q1": "Şans kurabiyesinin tarihsel kökeni nedir?",
+    "a1": "20. yüzyılın başlarında Kaliforniya'daki Asya restoranlarıyla ün kazansa da kökeni 19. yüzyıl Kyoto tapınaklarında kağıt fallarla pişirilen Japon 'tsujiura senbei' kurabiyelerine dayanır.",
+    "q2": "Kurabiyeden çıkan mesajlar neden bize özel yazılmış gibi hissettirir?",
+    "a2": "Psikolojik hazırlama (priming) ve Barnum-Forer etkisi nedeniyle: geniş anlamlı olumlu sözler zihnin kendi hayatındaki fırsatları ve anlamları bulmasını sağlar.",
+    "q3": "Günün sözü ve şanslı sayılar nasıl değerlendirilmelidir?",
+    "a3": "Şans kurabiyeleri keyifli bir kültürel eğlence ve farkındalık aracıdır; kehanet olarak değil güne moral ve ilham katan tatlı bir motivasyon olarak görülmelidir.",
+    "q4": "Açtığım kurabiyelerin geçmişi sunucularda kaydediliyor mu?",
+    "a4": "Hayır. Tüm etkileşimler ve sayaçlar yalnızca yerel tarayıcınızda tutulur; hiçbir veri harici sunuculara aktarılmaz."
   }
 }

@@ -84,5 +84,16 @@
     "lifeNumbers": "Dein Leben in Zahlen",
     "soulAge": "Seelenalter-Test",
     "futureSelf": "Zukunfts-Ich"
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen (FAQ)",
+    "q1": "Woher stammt der Glückskeks historisch gesehen?",
+    "a1": "Obwohl sie Anfang des 20. Jahrhunderts in kalifornischen China-Restaurants populär wurden, liegen ihre Ursprünge in den japanischen 'Tsujiura Senbei' des 19. Jahrhunderts aus Tempeln in Kyoto.",
+    "q2": "Warum wirken die Weisheiten im Glückskeks oft so treffend?",
+    "a2": "Dies beruht auf psychologischem Priming und dem Barnum-Forer-Effekt: Positive, universelle Botschaften regen das Gehirn an, persönliche Bezüge und Chancen im Alltag zu erkennen.",
+    "q3": "Wie sollten tägliche Sprüche und Glückszahlen verstanden werden?",
+    "a3": "Glückskekse sind kulturelle Unterhaltung und Achtsamkeitsimpulse. Nutzen Sie sie als willkommene Inspiration für den Tag und nicht als starre Schicksalsvorhersagen.",
+    "q4": "Werden meine geöffneten Kekse auf Servern gespeichert?",
+    "a4": "Nein. Alle Animationen und Zähler verbleiben vollständig in Ihrem lokalen Browser. Es werden keinerlei Daten übertragen."
   }
 }

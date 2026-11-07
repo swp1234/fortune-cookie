@@ -7,7 +7,7 @@
     <meta name="robots" content="max-image-preview:large">
     <title>Fortune Cookie - DopaBrain</title>
     <meta name="description" content="Crack open a fortune cookie and discover your daily fortune! Lucky numbers, colors, and personalized wisdom.">
-    <meta name="dateModified" content="2026-10-29">
+    <meta name="dateModified" content="2026-11-07">
     <meta name="keywords" content="fortune cookie, daily fortune, lucky number, fortune teller, horoscope, luck test">
     <meta name="theme-color" content="#f59e0b">
     <link rel="canonical" href="https://dopabrain.com/fortune-cookie/">
@@ -91,7 +91,47 @@
 }
 </script>
 
-    <!-- FAQPage Schema -->
+        <!-- FAQPage Schema -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "Where do fortune cookies originate historically?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "While popularized in early 20th-century California Chinese restaurants, their culinary precursors trace to 19th-century Japanese temple confectioneries known as tsujiura senbei, which folded paper fortunes into roasted wafers."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Why do fortune cookie messages feel so resonant and personal?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "This feeling stems from psychological priming and the Barnum-Forer effect. Broad, optimistic statements encourage your mind to identify relevant personal circumstances and positive opportunities in daily life."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How should daily fortunes and lucky numbers be used?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Fortune cookies are cultural entertainment and mindfulness prompts. Rather than literal predictions or gambling advice, use them for positive reflection, daily motivation, and creative inspiration."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Is my fortune opening history tracked or saved remotely?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "No. All cookie cracking animations, daily counters, and selections run entirely in your local browser. No personal data or fortune logs are transmitted to external servers."
+                }
+            }
+        ]
+    }
+    </script>
     
     <!-- BreadcrumbList Schema -->
     <script type="application/ld+json">
@@ -198,6 +238,36 @@
         <div class="daily-counter">
             <span data-i18n="app.cookiesOpened">Cookies opened</span>: <span id="cookie-count">0</span>
         </div>
+
+        <section class="faq-section collapsible-section" id="faq-section" aria-labelledby="faq-title">
+            <h2 id="faq-title" class="faq-heading" data-i18n="faq.title">Frequently Asked Questions</h2>
+            <div class="faq-list">
+                <details class="faq-item">
+                    <summary><h3 data-i18n="faq.q1">Where do fortune cookies originate historically?</h3></summary>
+                    <div class="faq-answer">
+                        <p data-i18n="faq.a1">While popularized in early 20th-century California Chinese restaurants, their culinary precursors trace to 19th-century Japanese temple confectioneries known as tsujiura senbei, which folded paper fortunes into roasted wafers.</p>
+                    </div>
+                </details>
+                <details class="faq-item">
+                    <summary><h3 data-i18n="faq.q2">Why do fortune cookie messages feel so resonant and personal?</h3></summary>
+                    <div class="faq-answer">
+                        <p data-i18n="faq.a2">This feeling stems from psychological priming and the Barnum-Forer effect. Broad, optimistic statements encourage your mind to identify relevant personal circumstances and positive opportunities in daily life.</p>
+                    </div>
+                </details>
+                <details class="faq-item">
+                    <summary><h3 data-i18n="faq.q3">How should daily fortunes and lucky numbers be used?</h3></summary>
+                    <div class="faq-answer">
+                        <p data-i18n="faq.a3">Fortune cookies are cultural entertainment and mindfulness prompts. Rather than literal predictions or gambling advice, use them for positive reflection, daily motivation, and creative inspiration.</p>
+                    </div>
+                </details>
+                <details class="faq-item">
+                    <summary><h3 data-i18n="faq.q4">Is my fortune opening history tracked or saved remotely?</h3></summary>
+                    <div class="faq-answer">
+                        <p data-i18n="faq.a4">No. All cookie cracking animations, daily counters, and selections run entirely in your local browser. No personal data or fortune logs are transmitted to external servers.</p>
+                    </div>
+                </details>
+            </div>
+        </section>
     </div>
 
     <footer class="app-footer">

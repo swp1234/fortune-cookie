@@ -84,5 +84,16 @@
     "lifeNumbers": "Hidup dalam angka",
     "soulAge": "Usia Jiwa",
     "futureSelf": "Diri Masa Depan"
+  },
+  "faq": {
+    "title": "Pertanyaan yang Sering Diajukan (FAQ)",
+    "q1": "Dari manakah asal-usul kue keberuntungan (fortune cookie)?",
+    "a1": "Meski dipopulerkan di restoran Tionghoa-Amerika di California awal abad ke-20, akarnya berasal dari kue 'tsujiura senbei' Jepang abad ke-19 yang berisi ramalan kertas dari kuil-kuil Kyoto.",
+    "q2": "Mengapa pesan kue keberuntungan terasa sangat sesuai dengan diri kita?",
+    "a2": "Hal ini terjadi akibat priming psikologis dan efek Barnum-Forer: pesan bijak yang luas mendorong pikiran untuk menghubungkannya dengan pengalaman pribadi secara positif.",
+    "q3": "Bagaimana sebaiknya menyikapi pesan harian dan angka keberuntungan?",
+    "a3": "Kue keberuntungan adalah sarana hiburan budaya dan pengingat positif. Jadikan pesan tersebut sebagai pemantik motivasi dan inspirasi harian Anda.",
+    "q4": "Apakah riwayat pembukaan kue tersimpan di server luar?",
+    "a4": "Tidak sama sekali. Seluruh animasi dan hitungan harian disimpan secara lokal di peramban Anda dengan privasi terjamin."
   }
 }

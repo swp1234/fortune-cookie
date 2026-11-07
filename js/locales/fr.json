@@ -84,5 +84,16 @@
     "lifeNumbers": "Votre vie en chiffres",
     "soulAge": "Âge de l'Âme",
     "futureSelf": "Moi Futur"
+  },
+  "faq": {
+    "title": "Foire Aux Questions (FAQ)",
+    "q1": "Quelle est l'origine historique des biscuits de fortune ?",
+    "a1": "Bien que popularisés dans les restaurants sino-américains de Californie au début du XXe siècle, leurs origines remontent aux 'tsujiura senbei' japonais confectionnés près des temples de Kyoto au XIXe siècle.",
+    "q2": "Pourquoi les messages des biscuits semblent-ils si personnels ?",
+    "a2": "Ce phénomène s'explique par l'amorçage psychologique et l'effet Barnum : des citations positives et générales stimulent l'esprit à identifier des opportunités réelles dans son quotidien.",
+    "q3": "Comment tirer le meilleur parti des prédictions et chiffres ?",
+    "a3": "Considérez les biscuits de fortune comme un divertissement culturel et un exercice de pleine conscience, parfait pour susciter l'optimisme plutôt qu'une prédiction littérale.",
+    "q4": "Mon historique d'ouverture est-il enregistré sur un serveur ?",
+    "a4": "Non. Toutes les interactions et décomptes restent exclusivement dans le stockage local de votre navigateur."
   }
 }

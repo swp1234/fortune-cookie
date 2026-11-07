@@ -84,5 +84,16 @@
     "lifeNumbers": "Sua vida em números",
     "soulAge": "Idade da Alma",
     "futureSelf": "Eu do Futuro"
+  },
+  "faq": {
+    "title": "Perguntas Frequentes (FAQ)",
+    "q1": "Qual é a origem histórica do biscoito da sorte?",
+    "a1": "Embora popularizados nos restaurantes sino-americanos da Califórnia no início do século XX, seus precursores culinários vêm dos biscoitos japoneses 'tsujiura senbei' do século XIX produzidos em templos de Quioto.",
+    "q2": "Por que as mensagens parecem tão sob medida para cada pessoa?",
+    "a2": "Isso se deve ao priming psicológico e ao efeito Barnum-Forer: mensagens inspiradoras incentivam a mente a encontrar paralelos positivos em sua própria rotina diária.",
+    "q3": "Como utilizar as frases diárias e números da sorte?",
+    "a3": "Os biscoitos da sorte são entretenimento cultural e ferramentas de reflexão leve. Use-os como estímulo para gratidão e foco positivo, não como previsões literais.",
+    "q4": "Meu histórico de biscoitos abertos é salvo em servidores externos?",
+    "a4": "Não. Todas as interações ocorrem localmente no seu navegador, sem envio de dados ou histórico para a nuvem."
   }
 }

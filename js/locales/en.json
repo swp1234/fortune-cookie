@@ -84,5 +84,16 @@
     "lifeNumbers": "Life in Numbers",
     "soulAge": "Soul Age",
     "futureSelf": "Future Self"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": "Where do fortune cookies originate historically?",
+    "a1": "While popularized in early 20th-century California Chinese restaurants, their culinary precursors trace to 19th-century Japanese temple confectioneries known as tsujiura senbei, which folded paper fortunes into roasted wafers.",
+    "q2": "Why do fortune cookie messages feel so resonant and personal?",
+    "a2": "This feeling stems from psychological priming and the Barnum-Forer effect. Broad, optimistic statements encourage your mind to identify relevant personal circumstances and positive opportunities in daily life.",
+    "q3": "How should daily fortunes and lucky numbers be used?",
+    "a3": "Fortune cookies are cultural entertainment and mindfulness prompts. Rather than literal predictions or gambling advice, use them for positive reflection, daily motivation, and creative inspiration.",
+    "q4": "Is my fortune opening history tracked or saved remotely?",
+    "a4": "No. All cookie cracking animations, daily counters, and selections run entirely in your local browser. No personal data or fortune logs are transmitted to external servers."
   }
 }

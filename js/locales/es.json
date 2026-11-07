@@ -84,5 +84,16 @@
     "lifeNumbers": "Tu vida en números",
     "soulAge": "Edad del Alma",
     "futureSelf": "Mi Yo Futuro"
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes (FAQ)",
+    "q1": "¿Cuál es el origen histórico de las galletas de la fortuna?",
+    "a1": "Aunque se popularizaron en los restaurantes chino-estadounidenses de California a principios del siglo XX, sus orígenes se remontan a las galletas japonesas 'tsujiura senbei' del siglo XIX elaboradas en templos de Kioto.",
+    "q2": "¿Por qué los mensajes parecen tan acertados y personales?",
+    "a2": "Se debe al efecto de primado psicológico y al efecto Barnum-Forer: las afirmaciones optimistas y abiertas invitan a la mente a buscar activamente coincidencias positivas en la vida diaria.",
+    "q3": "¿Cómo deben interpretarse las frases y números de la suerte?",
+    "a3": "Las galletas de la fortuna son entretenimiento cultural y recordatorios de atención plena. Úselas como chispas de motivación diaria y reflexión personal, no como predicciones literales.",
+    "q4": "¿Se guarda mi historial de galletas en servidores externos?",
+    "a4": "No. Toda la animación y los contadores diarios permanecen estrictamente en la memoria local de su navegador, garantizando total privacidad."
   }
 }
