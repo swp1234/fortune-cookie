@@ -18,7 +18,10 @@
     "luckyColor": "Lucky Color",
     "mood": "Today's Mood",
     "share": "📤 Share",
-    "newCookie": "🥠 New Cookie"
+    "newCookie": "🥠 New Cookie",
+    "saveCard": "📸 Save Story Card",
+    "saved": "Story card saved!",
+    "cardFooter": "Crack your daily fortune at dopabrain.com/fortune-cookie"
   },
   "colors": {
     "red": "Red",
@@ -95,5 +98,29 @@
     "a3": "Fortune cookies are cultural entertainment and mindfulness prompts. Rather than literal predictions or gambling advice, use them for positive reflection, daily motivation, and creative inspiration.",
     "q4": "Is my fortune opening history tracked or saved remotely?",
     "a4": "No. All cookie cracking animations, daily counters, and selections run entirely in your local browser. No personal data or fortune logs are transmitted to external servers."
+  },
+  "rarity": {
+    "legendary": "⭐ Legendary",
+    "rare": "💎 Rare",
+    "uncommon": "✨ Uncommon",
+    "common": "🥠 Common"
+  },
+  "streak": {
+    "days": "day streak"
+  },
+  "curated": {
+    "badge": "Recommended Guides",
+    "title": "Deepen Daily Mindfulness & Reflection",
+    "disclosure": "Curated picks · May earn a small commission at no extra cost",
+    "dailyStoic": {
+      "title": "The Daily Stoic",
+      "author": "Ryan Holiday & Stephen Hanselman",
+      "why": "366 concise daily reflections to turn short fortune prompts into steady perspective and clarity."
+    },
+    "meditations": {
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "why": "Timeless personal notes on calm focus, gratitude, and composure in uncertain moments."
+    }
   }
 }

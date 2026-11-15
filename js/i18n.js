@@ -56,3 +56,4 @@ class I18n {
     getCurrentLanguage() { return this.currentLang; }
 }
 const i18n = new I18n();
+window.i18n = i18n;

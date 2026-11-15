@@ -18,7 +18,10 @@
     "luckyColor": "Color de suerte",
     "mood": "Humor del día",
     "share": "📤 Compartir",
-    "newCookie": "🥠 Nueva Galleta"
+    "newCookie": "🥠 Nueva Galleta",
+    "saveCard": "📸 Guardar Tarjeta Story",
+    "saved": "¡Tarjeta guardada!",
+    "cardFooter": "Abre tu galleta diaria en dopabrain.com/fortune-cookie"
   },
   "colors": {
     "red": "Rojo",
@@ -95,5 +98,29 @@
     "a3": "Las galletas de la fortuna son entretenimiento cultural y recordatorios de atención plena. Úselas como chispas de motivación diaria y reflexión personal, no como predicciones literales.",
     "q4": "¿Se guarda mi historial de galletas en servidores externos?",
     "a4": "No. Toda la animación y los contadores diarios permanecen estrictamente en la memoria local de su navegador, garantizando total privacidad."
+  },
+  "rarity": {
+    "legendary": "⭐ Legendario",
+    "rare": "💎 Raro",
+    "uncommon": "✨ Poco común",
+    "common": "🥠 Común"
+  },
+  "streak": {
+    "days": "días seguidos"
+  },
+  "curated": {
+    "badge": "Guías Recomendadas",
+    "title": "Profundiza tu Reflexión y Atención Diaria",
+    "disclosure": "Selección curada · Puede generar una pequeña comisión sin coste adicional",
+    "dailyStoic": {
+      "title": "El Estoico Diario (The Daily Stoic)",
+      "author": "Ryan Holiday & Stephen Hanselman",
+      "why": "366 reflexiones breves para convertir un mensaje diario en serenidad y claridad práctica."
+    },
+    "meditations": {
+      "title": "Meditaciones (Meditations)",
+      "author": "Marco Aurelio",
+      "why": "Anotaciones atemporales sobre enfoque tranquilo, gratitud y templanza ante la incertidumbre."
+    }
   }
 }

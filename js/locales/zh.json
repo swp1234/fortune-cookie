@@ -18,7 +18,10 @@
     "luckyColor": "幸运颜色",
     "mood": "今日心情",
     "share": "📤 分享",
-    "newCookie": "🥠 新饼干"
+    "newCookie": "🥠 新饼干",
+    "saveCard": "📸 保存故事卡片",
+    "saved": "已保存分享卡片！",
+    "cardFooter": "在 dopabrain.com/fortune-cookie 开启你的每日幸运饼干"
   },
   "colors": {
     "red": "红色",
@@ -95,5 +98,29 @@
     "a3": "幸运饼干是一种富有趣味的文化体验与正念提醒。请将其作为启迪生活思考、保持乐观心态的心灵契机，而非绝对的未来预测。",
     "q4": "我开启饼干的历史与签语记录会被服务器保存吗？",
     "a4": "绝不会。所有动画交互与每日开签计数均仅保存在您的本地浏览器中，绝无任何个人数据上传至远程服务器。"
+  },
+  "rarity": {
+    "legendary": "⭐ 传说",
+    "rare": "💎 稀有",
+    "uncommon": "✨ 罕见",
+    "common": "🥠 普通"
+  },
+  "streak": {
+    "days": "天连续"
+  },
+  "curated": {
+    "badge": "精选阅读指南",
+    "title": "深化每日正念与自我觉察的经典读物",
+    "disclosure": "精选推荐 · 在不增加您费用的前提下可能获得微薄佣金",
+    "dailyStoic": {
+      "title": "每日斯多葛 (The Daily Stoic)",
+      "author": "Ryan Holiday & Stephen Hanselman",
+      "why": "366段精炼的每日哲思，将短暂的幸运签语转化为稳健的视角与清醒感。"
+    },
+    "meditations": {
+      "title": "沉思录 (Meditations)",
+      "author": "马可·奥勒留",
+      "why": "在充满不确定性的时刻保持平静专注与感恩心态的永恒随笔。"
+    }
   }
 }

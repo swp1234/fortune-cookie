@@ -18,7 +18,10 @@
     "luckyColor": "Glücksfarbe",
     "mood": "Stimmung des Tages",
     "share": "📤 Teilen",
-    "newCookie": "🥠 Neuer Keks"
+    "newCookie": "🥠 Neuer Keks",
+    "saveCard": "📸 Story-Karte speichern",
+    "saved": "Story-Karte gespeichert!",
+    "cardFooter": "Öffne dein Glückskeks auf dopabrain.com/fortune-cookie"
   },
   "colors": {
     "red": "Rot",
@@ -95,5 +98,29 @@
     "a3": "Glückskekse sind kulturelle Unterhaltung und Achtsamkeitsimpulse. Nutzen Sie sie als willkommene Inspiration für den Tag und nicht als starre Schicksalsvorhersagen.",
     "q4": "Werden meine geöffneten Kekse auf Servern gespeichert?",
     "a4": "Nein. Alle Animationen und Zähler verbleiben vollständig in Ihrem lokalen Browser. Es werden keinerlei Daten übertragen."
+  },
+  "rarity": {
+    "legendary": "⭐ Legendär",
+    "rare": "💎 Selten",
+    "uncommon": "✨ Ungewöhnlich",
+    "common": "🥠 Gewöhnlich"
+  },
+  "streak": {
+    "days": "Tage am Stück"
+  },
+  "curated": {
+    "badge": "Empfohlene Lektüre",
+    "title": "Tägliche Achtsamkeit & Reflexion vertiefen",
+    "disclosure": "Kuratierte Auswahl · Kleine Provision ohne Mehrkosten möglich",
+    "dailyStoic": {
+      "title": "Der tägliche Stoiker (The Daily Stoic)",
+      "author": "Ryan Holiday & Stephen Hanselman",
+      "why": "366 prägnante Tagesimpulse, um kurze Glücksbotschaften in ruhige Klarheit zu verwandeln."
+    },
+    "meditations": {
+      "title": "Selbstbetrachtungen (Meditations)",
+      "author": "Mark Aurel",
+      "why": "Zeitlose Gedanken über ruhigen Fokus, Dankbarkeit und Gelassenheit im Alltag."
+    }
   }
 }

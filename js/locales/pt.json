@@ -18,7 +18,10 @@
     "luckyColor": "Cor da sorte",
     "mood": "Humor do dia",
     "share": "📤 Compartilhar",
-    "newCookie": "🥠 Novo Biscoito"
+    "newCookie": "🥠 Novo Biscoito",
+    "saveCard": "📸 Salvar Card Story",
+    "saved": "Card salvo com sucesso!",
+    "cardFooter": "Abra seu biscoito diário em dopabrain.com/fortune-cookie"
   },
   "colors": {
     "red": "Vermelho",
@@ -95,5 +98,29 @@
     "a3": "Os biscoitos da sorte são entretenimento cultural e ferramentas de reflexão leve. Use-os como estímulo para gratidão e foco positivo, não como previsões literais.",
     "q4": "Meu histórico de biscoitos abertos é salvo em servidores externos?",
     "a4": "Não. Todas as interações ocorrem localmente no seu navegador, sem envio de dados ou histórico para a nuvem."
+  },
+  "rarity": {
+    "legendary": "⭐ Lendário",
+    "rare": "💎 Raro",
+    "uncommon": "✨ Incomum",
+    "common": "🥠 Comum"
+  },
+  "streak": {
+    "days": "dias seguidos"
+  },
+  "curated": {
+    "badge": "Guias Recomendados",
+    "title": "Aprofunde a Atenção Plena e a Reflexão Diária",
+    "disclosure": "Seleção curada · Pode gerar uma pequena comissão sem custo extra",
+    "dailyStoic": {
+      "title": "Diário Estoico (The Daily Stoic)",
+      "author": "Ryan Holiday & Stephen Hanselman",
+      "why": "366 reflexões diárias concisas para transformar mensagens breves em clareza e equilíbrio."
+    },
+    "meditations": {
+      "title": "Meditações (Meditations)",
+      "author": "Marco Aurélio",
+      "why": "Notas atemporais sobre foco sereno, gratidão e serenidade em momentos incertos."
+    }
   }
 }

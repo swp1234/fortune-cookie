@@ -18,7 +18,10 @@
     "luckyColor": "Couleur chanceuse",
     "mood": "Humeur du jour",
     "share": "📤 Partager",
-    "newCookie": "🥠 Nouveau Cookie"
+    "newCookie": "🥠 Nouveau Cookie",
+    "saveCard": "📸 Enregistrer la carte Story",
+    "saved": "Carte enregistrée !",
+    "cardFooter": "Ouvrez votre biscuit sur dopabrain.com/fortune-cookie"
   },
   "colors": {
     "red": "Rouge",
@@ -95,5 +98,29 @@
     "a3": "Considérez les biscuits de fortune comme un divertissement culturel et un exercice de pleine conscience, parfait pour susciter l'optimisme plutôt qu'une prédiction littérale.",
     "q4": "Mon historique d'ouverture est-il enregistré sur un serveur ?",
     "a4": "Non. Toutes les interactions et décomptes restent exclusivement dans le stockage local de votre navigateur."
+  },
+  "rarity": {
+    "legendary": "⭐ Légendaire",
+    "rare": "💎 Rare",
+    "uncommon": "✨ Peu commun",
+    "common": "🥠 Commun"
+  },
+  "streak": {
+    "days": "jours de suite"
+  },
+  "curated": {
+    "badge": "Guides Recommandés",
+    "title": "Approfondir la Pleine Conscience Quotidienne",
+    "disclosure": "Sélection éditoriale · Peut générer une petite commission sans surcoût",
+    "dailyStoic": {
+      "title": "The Daily Stoic",
+      "author": "Ryan Holiday & Stephen Hanselman",
+      "why": "366 réflexions concises pour transformer un message du jour en sérénité et clarté durable."
+    },
+    "meditations": {
+      "title": "Pensées pour moi-même (Meditations)",
+      "author": "Marc Aurèle",
+      "why": "Notes intemporelles sur le calme intérieur, la gratitude et la maîtrise de soi."
+    }
   }
 }

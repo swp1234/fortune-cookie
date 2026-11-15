@@ -18,7 +18,10 @@
     "luckyColor": "Şanslı Renk",
     "mood": "Günün Ruh Hali",
     "share": "📤 Paylaş",
-    "newCookie": "🥠 Yeni Kurabiye"
+    "newCookie": "🥠 Yeni Kurabiye",
+    "saveCard": "📸 Hikaye Kartını Kaydet",
+    "saved": "Hikaye kartı kaydedildi!",
+    "cardFooter": "dopabrain.com/fortune-cookie adresinde günlük kurabiyeni aç"
   },
   "colors": {
     "red": "Kırmızı",
@@ -95,5 +98,29 @@
     "a3": "Şans kurabiyeleri keyifli bir kültürel eğlence ve farkındalık aracıdır; kehanet olarak değil güne moral ve ilham katan tatlı bir motivasyon olarak görülmelidir.",
     "q4": "Açtığım kurabiyelerin geçmişi sunucularda kaydediliyor mu?",
     "a4": "Hayır. Tüm etkileşimler ve sayaçlar yalnızca yerel tarayıcınızda tutulur; hiçbir veri harici sunuculara aktarılmaz."
+  },
+  "rarity": {
+    "legendary": "⭐ Efsanevi",
+    "rare": "💎 Nadir",
+    "uncommon": "✨ Sıra Dışı",
+    "common": "🥠 Yaygın"
+  },
+  "streak": {
+    "days": "günlük seri"
+  },
+  "curated": {
+    "badge": "Önerilen Rehberler",
+    "title": "Günlük Farkındalık ve İçgörüyü Derinleştir",
+    "disclosure": "Seçilmiş öneriler · Ek ücret olmadan küçük bir komisyon kazanılabilir",
+    "dailyStoic": {
+      "title": "The Daily Stoic",
+      "author": "Ryan Holiday & Stephen Hanselman",
+      "why": "Kısa günlük mesajları sakin bir bakış açısı ve netliğe dönüştüren 366 özlü düşünce."
+    },
+    "meditations": {
+      "title": "Kendime Düşünceler (Meditations)",
+      "author": "Marcus Aurelius",
+      "why": "Belirsiz anlarda sakin odaklanma, şükran ve denge üzerine zamansız kişisel notlar."
+    }
   }
 }
