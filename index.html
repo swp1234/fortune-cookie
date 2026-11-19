@@ -164,6 +164,9 @@
     <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-J8GSWM40TV');</script>
 <link rel="stylesheet" href="css/style.css">
     <script src="js/i18n.js"></script>
+    <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossorigin>
+    <link rel="dns-prefetch" href="https://googleads.g.doubleclick.net">
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com">
 </head>
 <body>
     <a href="#main-screen" class="skip-link" data-i18n="a11y.skip">Skip to content</a>
@@ -236,7 +239,19 @@
                 <button id="btn-new" class="btn-action btn-new" data-i18n="fortune.newCookie">🥠 New Cookie</button>
             </div>
 
-            <div class="curated-resources-card hidden" id="curated-resources-card">
+                    <section class="next-step-card" id="nextStepCard" aria-label="HSP Sensitivity Test">
+            <p class="next-step-label" data-i18n="nextStep.label">Recommended Next Step</p>
+            <div class="next-step-main">
+                <span class="next-step-emoji" aria-hidden="true">🌿</span>
+                <div class="next-step-content">
+                    <h4 class="next-step-title" data-i18n="nextStep.title">HSP Sensitivity Test</h4>
+                    <p class="next-step-desc" data-i18n="nextStep.desc">Discover how sensory and emotional depth shape your intuition and energy in 3 minutes.</p>
+                </div>
+            </div>
+            <a href="/hsp-test/?lang=en&amp;start=1&amp;source=fortune_cookie_result" class="next-step-cta" id="nextStepCta" data-i18n="nextStep.cta">Take HSP Test →</a>
+        </section>
+
+<div class="curated-resources-card hidden" id="curated-resources-card">
                 <div class="curated-header">
                     <span class="curated-badge" data-i18n="curated.badge">Recommended Guides</span>
                     <h3 class="curated-title" data-i18n="curated.title">Deepen Daily Mindfulness &amp; Reflection</h3>
@@ -300,5 +315,35 @@
     </div>
     <script src="/portal/js/cross-promo.js" defer></script>
   <script>if("serviceWorker"in navigator){navigator.serviceWorker.register("sw.js").catch(()=>{});}</script>
+
+    <script>
+      (function () {
+        var cta = document.getElementById('nextStepCta');
+        if (!cta) return;
+        function syncHref() {
+          var lang = (window.i18n && (window.i18n.currentLang || (typeof window.i18n.getCurrentLanguage === 'function' && window.i18n.getCurrentLanguage())))
+            || new URLSearchParams(window.location.search).get('lang')
+            || document.documentElement.lang
+            || 'en';
+          try {
+            var u = new URL(cta.getAttribute('href'), window.location.origin);
+            u.searchParams.set('lang', lang);
+            u.searchParams.set('source', 'fortune_cookie_result');
+            cta.setAttribute('href', u.pathname + u.search);
+          } catch (e) {}
+        }
+        syncHref();
+        cta.addEventListener('click', function () {
+          syncHref();
+          if (typeof gtag === 'function') {
+            gtag('event', 'content_cta_click', {
+              cta_surface: 'next_step_hero',
+              destination: cta.getAttribute('href'),
+              source: 'fortune_cookie_result'
+            });
+          }
+        });
+      })();
+    </script>
 </body>
 </html>

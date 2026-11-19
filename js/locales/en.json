@@ -122,5 +122,11 @@
       "author": "Marcus Aurelius",
       "why": "Timeless personal notes on calm focus, gratitude, and composure in uncertain moments."
     }
+  },
+  "nextStep": {
+    "label": "Recommended Next Step",
+    "title": "HSP Sensitivity Test",
+    "desc": "Discover how sensory and emotional depth shape your intuition and energy in 3 minutes.",
+    "cta": "Take HSP Test →"
   }
 }

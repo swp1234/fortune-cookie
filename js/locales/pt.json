@@ -122,5 +122,11 @@
       "author": "Marco Aurélio",
       "why": "Notas atemporais sobre foco sereno, gratidão e serenidade em momentos incertos."
     }
+  },
+  "nextStep": {
+    "label": "Próximo passo recomendado",
+    "title": "Teste de Alta Sensibilidade HSP",
+    "desc": "Descubra em 3 minutos como sua sensibilidade molda sua energia diária.",
+    "cta": "Fazer Teste HSP →"
   }
 }

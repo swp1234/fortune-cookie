@@ -122,5 +122,11 @@
       "author": "Marcus Aurelius",
       "why": "Catatan abadi tentang fokus tenang, rasa syukur, dan keteguhan di saat penuh ketidakpastian."
     }
+  },
+  "nextStep": {
+    "label": "Langkah Berikutnya",
+    "title": "Tes Sensitivitas HSP",
+    "desc": "Kenali bagaimana kepekaan sensorik dan emosimu memengaruhi energimu dalam 3 menit.",
+    "cta": "Mulai Tes HSP →"
   }
 }

@@ -122,5 +122,11 @@
       "author": "Marcus Aurelius",
       "why": "Belirsiz anlarda sakin odaklanma, şükran ve denge üzerine zamansız kişisel notlar."
     }
+  },
+  "nextStep": {
+    "label": "Önerilen Sonraki Adım",
+    "title": "HSP Hassasiyet Testi",
+    "desc": "Duyusal ve duygusal derinliğinin enerjini nasıl şekillendirdiğini 3 dakikada keşfet.",
+    "cta": "HSP Testini Başlat →"
   }
 }

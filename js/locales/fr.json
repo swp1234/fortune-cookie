@@ -122,5 +122,11 @@
       "author": "Marc Aurèle",
       "why": "Notes intemporelles sur le calme intérieur, la gratitude et la maîtrise de soi."
     }
+  },
+  "nextStep": {
+    "label": "Prochaine étape recommandée",
+    "title": "Test d’Hypersensibilité HSP",
+    "desc": "Découvrez en 3 minutes comment votre sensibilité façonne votre énergie.",
+    "cta": "Faire le test HSP →"
   }
 }
